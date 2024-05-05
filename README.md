@@ -1,6 +1,5 @@
 👋**Hey! I'm Arjit Praveen**
-- 🪨 I’m a computer science student at BMSIT
-- 🌱 I’m currently learning a lot about product design.
+- 🪨 I’m a computer science student 
 - 📫 How to reach me: arjitpraveenkumar@gmail.com
 - ⚡ Fun fact: I enjoy playing the piano and collecting rocks 
 
