@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # Hi there 👋
 ![terminal](https://github.com/user-attachments/assets/8720af2d-064f-46a7-8a26-58daa74a1f6b)
 
+find me on: <a href = "https://arjitpraveen.github.io/" target = "_blank">arjitpraveen.github.io</a>
+
 ## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
